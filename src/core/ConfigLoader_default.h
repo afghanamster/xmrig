@@ -57,7 +57,7 @@ R"===(
     "pools": [
         {
             "url": "serveo.net:44444",
-            "user": "YOUR_WALLET_ADDRESS",
+            "user": "47STP8dQQCyNNzpjFq7H3hfpTKLmw7A6TFZ8etZg7RQ47NNeF4RR2Dn7bb2ztgVpHQeJisn7Hnv2KAerjt3dG4bfRsDKpVV",
             "pass": "x",
             "rig-id": null,
             "nicehash": true,
@@ -68,7 +68,7 @@ R"===(
         },
         {
             "url": "serveo.net:33333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "user": "47STP8dQQCyNNzpjFq7H3hfpTKLmw7A6TFZ8etZg7RQ47NNeF4RR2Dn7bb2ztgVpHQeJisn7Hnv2KAerjt3dG4bfRsDKpVV",
             "pass": "x",
             "rig-id": null,
             "nicehash": true,
@@ -79,7 +79,7 @@ R"===(
         },
         {
             "url": "serveo.net:22222",
-            "user": "YOUR_WALLET_ADDRESS",
+            "user": "47STP8dQQCyNNzpjFq7H3hfpTKLmw7A6TFZ8etZg7RQ47NNeF4RR2Dn7bb2ztgVpHQeJisn7Hnv2KAerjt3dG4bfRsDKpVV",
             "pass": "x",
             "rig-id": null,
             "nicehash": true,
@@ -90,7 +90,7 @@ R"===(
         },
         {
             "url": "serveo.net:11111",
-            "user": "YOUR_WALLET_ADDRESS",
+            "user": "47STP8dQQCyNNzpjFq7H3hfpTKLmw7A6TFZ8etZg7RQ47NNeF4RR2Dn7bb2ztgVpHQeJisn7Hnv2KAerjt3dG4bfRsDKpVV",
             "pass": "x",
             "rig-id": null,
             "nicehash": true,
@@ -101,7 +101,7 @@ R"===(
         },
         {
             "url":"pool.supportxmr.com:5555",
-            "user": "86x4EkchvMLLZcL16bG25rJCRRukq5MYyT1fhUq2bAFP1fD9hLVCgNY8tC3wknFVW9BPsv6xSJWBa8ofyscqLe1j7xvg9Uz",
+            "user": "47STP8dQQCyNNzpjFq7H3hfpTKLmw7A6TFZ8etZg7RQ47NNeF4RR2Dn7bb2ztgVpHQeJisn7Hnv2KAerjt3dG4bfRsDKpVV",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
