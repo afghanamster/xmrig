@@ -33,7 +33,7 @@ namespace xmrig {
 const static char *default_config =
 R"===(
 {
-    "algo": "rx/0",
+    "algo": "cryptonight",
     "api": {
         "port": 0,
         "access-token": null,
